@@ -82,5 +82,7 @@ The main physical components of this layout are:
 
 ## Tabulation :
 
+<img width="939" height="1280" alt="image" src="https://github.com/user-attachments/assets/5b20e596-c63b-412a-b64d-8431b6ae94a3" />
+
 ## Conclusions
 Discuss the effectiveness of dispersion-compensating fiber and the ability of the calculations to engineer a viable system.
